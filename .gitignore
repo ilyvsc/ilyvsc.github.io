@@ -9,6 +9,9 @@
 # security
 .dccache
 
+# editor
+.vscode
+
 # formatting
 .prettierrc.json
 .eslintrc.json
@@ -27,3 +30,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+package.json
+package-lock.json
+
+tailwind.config.js
